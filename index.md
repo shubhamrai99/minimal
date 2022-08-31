@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 
 # Data Scientist ( with 3.5 year experience)
